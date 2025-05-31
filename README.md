@@ -1,8 +1,9 @@
+---
+
 Môn học: Cơ Sở Toán cho Khoa Học Máy Tính
 
 Học kỳ: 242
 
----
 ---
 Bài tập lớn
 
@@ -48,8 +49,6 @@ Repository chứa tài liệu Jupyternotebook, code ví dụ, code bài tập ch
 
 5 - Python Code for Advanced Exercises (3 Advanced Exercises)
 ---
-
-Ghi chú: Toàn bộ code được nhóm 7 viết bằng ngôn ngữ Python.
 
 
 
