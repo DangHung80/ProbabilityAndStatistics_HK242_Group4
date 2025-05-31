@@ -3,21 +3,22 @@ Môn học: Cơ Sở Toán cho Khoa Học Máy Tính
 Học kỳ: 242
 
 ---
+---
+Bài tập lớn
 
-Giảng viên hướng dẫn:
+_Đề tài_: **Probability and Statistics**
+
+---
+
+**Giảng viên hướng dẫn:**
 
 Thầy TS. Nguyễn An Khương
 
 Thầy TS. Trần Tuấn Anh
 
 ---
-Bài tập lớn
 
-Đề tài: Probability and Statistics
-
----
-
-Học viên thực hiện (Group7):
+**Học viên thực hiện (Group7):**
 
 (1) Trần Đăng Hùng - 2470750
 
@@ -29,6 +30,8 @@ Học viên thực hiện (Group7):
 
 (5) Nguyễn Đình Nhật Minh - 2370736
 
+(6) Nguyễn Xuân Hiền - 2470749
+
 
 
 ---
@@ -37,14 +40,13 @@ Repository chứa tài liệu Jupyternotebook, code ví dụ, code bài tập ch
 
 1 - Notebooks
 
-2 - Report
+2 - A full written report (PDF format)
 
-  2.1. A full written report (PDF format)
+3 - A presentation slide (PDF format)
 
-  2.2. A presentation slide (PDF format)
+4 - Python Code for Practice Exercises (8 Practice Exercises in Section 2.6.8 of the D2L Book)
 
-3 - Exercises (8 practice exercises in the chapter and 3 advanced exercises)
-
+5 - Python Code for Advanced Exercises (3 Advanced Exercises)
 ---
 
 Ghi chú: Toàn bộ code được nhóm 7 viết bằng ngôn ngữ Python.
