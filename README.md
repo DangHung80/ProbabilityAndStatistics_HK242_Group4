@@ -36,9 +36,9 @@ Thầy TS. Trần Tuấn Anh
 
 ---
 
-Repository chứa tệp: Report, Slides, Notebook, Code  Python ví dụ, Code  Python bài tập, Code  Python bài tập cho từng phần của chương "Xác suất và Thống kê" từ sách "Dive into Deep Learning (D2L)". Nội dung được tổ chức thành 5 phần chính:
+Repository chứa các loại tệp của Bài tập lớn có đề tài "Xác suất và Thống kê" từ sách "Dive into Deep Learning (D2L)". Gồm 5 loại tệp chính:
 
-1 - Notebooks
+1 - Notebook
 
 2 - A full written report (PDF format)
 
