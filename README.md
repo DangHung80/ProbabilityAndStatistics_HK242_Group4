@@ -33,8 +33,6 @@ Thầy TS. Trần Tuấn Anh
 
 (6) Nguyễn Xuân Hiền - 2470749
 
-
-
 ---
 
 Repository chứa tài liệu Jupyternotebook, code ví dụ, code bài tập cho từng phần của chương "Xác suất và Thống kê" từ sách "Dive into Deep Learning". Nội dung được tổ chức thành ba phần chính:
