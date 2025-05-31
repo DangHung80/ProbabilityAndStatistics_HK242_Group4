@@ -1,12 +1,12 @@
 
 ---
 
-Môn học: Cơ Sở Toán cho Khoa Học Máy Tính
+Môn học: **Cơ Sở Toán cho Khoa Học Máy Tính**
 
-Học kỳ: 242
+Học kỳ: **242**
 
 ---
-Bài tập lớn
+**Bài tập lớn**
 
 _Đề tài_: **Probability and Statistics**
 
@@ -36,7 +36,7 @@ Thầy TS. Trần Tuấn Anh
 
 ---
 
-Repository chứa tài liệu Jupyternotebook, code ví dụ, code bài tập cho từng phần của chương "Xác suất và Thống kê" từ sách "Dive into Deep Learning (D2L)". Nội dung được tổ chức thành ba phần chính:
+Repository chứa tệp: Report, Slides, Notebook, Code  Python ví dụ, Code  Python bài tập, Code  Python bài tập cho từng phần của chương "Xác suất và Thống kê" từ sách "Dive into Deep Learning (D2L)". Nội dung được tổ chức thành 5 phần chính:
 
 1 - Notebooks
 
