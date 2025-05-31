@@ -40,13 +40,13 @@ Repository chứa các loại tệp của Bài tập lớn có đề tài "Xác 
 
 1 - Notebook
 
-2 - A full written report (PDF format)
+2 - A full written report (PDF format) and A presentation slide (PDF format)
 
-3 - A presentation slide (PDF format)
+3 - Python Code for Practice Exercises (8 Practice Exercises in Section 2.6.8 of the D2L Book)
 
-4 - Python Code for Practice Exercises (8 Practice Exercises in Section 2.6.8 of the D2L Book)
+4 - Python Code for Advanced Exercises (3 Advanced Exercises)
 
-5 - Python Code for Advanced Exercises (3 Advanced Exercises)
+5 - Group meeting link: https://drive.google.com/file/d/15wObNRw40rzsUqr0xpiyUVGshGDHI-M3/view?usp=sharing 
 
 ---
 
