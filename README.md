@@ -37,11 +37,11 @@ Repository chứa tài liệu Jupyternotebook, code ví dụ, code bài tập ch
 
 1 - Notebooks
 
-2 - Report:
+2 - Report
 
-2.1. A full written report (PDF format)
+  2.1. A full written report (PDF format)
 
-2.2. A presentation slide (PDF format)
+  2.2. A presentation slide (PDF format)
 
 3 - Exercises (8 practice exercises in the chapter and 3 advanced exercises)
 
