@@ -1,3 +1,4 @@
+
 ---
 
 Môn học: Cơ Sở Toán cho Khoa Học Máy Tính
@@ -35,7 +36,7 @@ Thầy TS. Trần Tuấn Anh
 
 ---
 
-Repository chứa tài liệu Jupyternotebook, code ví dụ, code bài tập cho từng phần của chương "Xác suất và Thống kê" từ sách "Dive into Deep Learning". Nội dung được tổ chức thành ba phần chính:
+Repository chứa tài liệu Jupyternotebook, code ví dụ, code bài tập cho từng phần của chương "Xác suất và Thống kê" từ sách "Dive into Deep Learning (D2L)". Nội dung được tổ chức thành ba phần chính:
 
 1 - Notebooks
 
@@ -46,6 +47,7 @@ Repository chứa tài liệu Jupyternotebook, code ví dụ, code bài tập ch
 4 - Python Code for Practice Exercises (8 Practice Exercises in Section 2.6.8 of the D2L Book)
 
 5 - Python Code for Advanced Exercises (3 Advanced Exercises)
+
 ---
 
 
