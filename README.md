@@ -46,7 +46,7 @@ Repository chứa các loại tệp của Bài tập lớn có đề tài "Xác 
 
 4 - Python Code for Advanced Exercises (3 Advanced Exercises)
 
-5 - Group meeting link: https://drive.google.com/file/d/15wObNRw40rzsUqr0xpiyUVGshGDHI-M3/view?usp=sharing 
+5 - Group meeting present link: https://drive.google.com/file/d/15wObNRw40rzsUqr0xpiyUVGshGDHI-M3/view?usp=sharing 
 
 ---
 
